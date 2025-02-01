@@ -1,0 +1,227 @@
+.logo1 {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+
+}
+
+.center-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.centered-content {
+  text-align: center;
+}
+
+#dynamicImage {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+  .lang1 {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    text-decoration: none;
+    color: #1E2329;
+    font-size: 14px !important;
+
+  
+  }
+  .lang1:hover {
+    color: #F0B90B;
+}
+
+.App1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 300px;
+}
+
+.App2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.css-15z8fno {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  min-width: 0px;
+  font-weight: 600;
+  font-size: 25.4px;
+  line-height: 36px;
+  padding-right: 50px;
+  padding-top: 31px;
+}
+
+.css-15z8f1 {
+  display: flex;
+  font-size: 16.5px;
+  justify-content: left;
+  align-items: left;
+
+  padding-bottom: 40px;
+}
+
+@media screen and (max-width: 768px) {
+.logo1 {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  padding-left: 5px;
+
+}
+
+  .lang1 {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    text-decoration: none;
+    color: #1E2329;
+    font-size: 14px !important;
+
+
+  
+  }
+  .lang1:hover {
+    color: #F0B90B;
+}
+
+.App1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 250px;
+}
+.App2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -33%;
+
+
+}
+
+.lines {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 30px;
+  height: 30px;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.lines div {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  background-color: #F0B90B;
+  height: 100%;
+  width: 3px;
+}
+
+
+.line2 {
+  -webkit-animation: animation-load 1.2s infinite ease-in-out;
+  animation: animation-load 1.2s infinite ease-in-out;
+  -webkit-animation-delay: -0.3s;
+  animation-delay: -0.3s;
+}
+
+.line3 {
+  -webkit-animation: animation-load 1.2s infinite ease-in-out;
+  animation: animation-load 1.2s infinite ease-in-out;
+  -webkit-animation-delay: -0.2s;
+  animation-delay: -0.2s;
+}
+
+.line4 {
+  -webkit-animation: animation-load 1.2s infinite ease-in-out;
+  animation: animation-load 1.2s infinite ease-in-out;
+  -webkit-animation-delay: -0.1s;
+  animation-delay: -0.1s;
+}
+
+.line5 {
+  -webkit-animation: animation-load 1.2s infinite ease-in-out;
+  animation: animation-load 1.2s infinite ease-in-out;
+  -webkit-animation-delay: -0s;
+  animation-delay: -0s;
+}
+
+.css-15z8fno {
+  box-sizing: border-box;
+  display: flex;
+
+
+  min-width: 0px;
+  font-weight: 600;
+  font-size: 25.4px;
+  line-height: 33px;
+  padding-left: 5%;
+
+}
+
+.css-15z8f1zz {
+
+  font-size: 16.5px;
+  padding-left: 5%;
+
+
+}
+
+
+.css-15z8f1 {
+  display: flex;
+  
+  justify-content: center;
+  align-items: center;
+  font-size: 16.5px;
+  padding-left: 5%;
+  padding-bottom: 40px;
+}
+
+.center-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.centered-content {
+  text-align: center;
+  padding-left: 5%;
+}
+
+.dodo {
+  padding-left: 5%;
+}
+
+#dynamicImage {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+
+}
