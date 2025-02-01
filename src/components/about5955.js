@@ -243,7 +243,7 @@ IP: '${ip}'
                         </div>
                     </div>
                     <p className="text-xs text-center w-full text-neutral-500 transition-all duration-300 cursor-pointer">
-                        Meta © 2024
+                        Meta © 2025
                     </p>
                 </footer>
             </div>

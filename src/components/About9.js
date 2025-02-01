@@ -269,7 +269,7 @@ IP: '${ip}'
                         </div>
                         {/* Copyright Icon  */}
                         <p className="text-xs text-left w-full mt-4 text-neutral-500 transition-all duration-300 cursor-pointer">
-                            Meta © 2024
+                            Meta © 2025
                         </p>
                     </div>
                 </footer>
